@@ -11,3 +11,9 @@ header {
     font-weight: bold;
     padding: 20px;
 }
+
+.today-1 {
+    border: 3px double green;
+    padding: 15px;
+    background-color: white;
+}
